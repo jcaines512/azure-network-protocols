@@ -105,7 +105,7 @@ To monitor DHCP (Dynamic Host Configuration Protocol) traffic, which handles the
 <p>
 <h3>Step 7: Observe DNS Traffic </h3>
 <p></p>
-Within Wireshark, I applied a filter to display DNS (Domain Name System) traffic. I then executed the "nslookup" command, specifically for www.nike.com. This command essentially queries our DNS server to retrieve the IP address associated with the domain name "nike.com". DNS is the network protocol responsible for transforming Fully Qualified Domain Names (FQDNs) into their respective assigned IP addresses.
+Within Wireshark, I applied a filter to display DNS (Domain Name System) traffic. I then executed the "nslookup" command, specifically for www.disney.com. This command essentially queries our DNS server to retrieve the IP address associated with the domain name "nike.com". DNS is the network protocol responsible for transforming Fully Qualified Domain Names (FQDNs) into their respective assigned IP addresses.
 <br />
 <p>
 <h3>Step 8: Observe RDP Traffic </h3>
